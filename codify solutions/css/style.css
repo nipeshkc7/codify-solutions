@@ -1,0 +1,23 @@
+.jumbotron{
+    margin:0;
+
+    
+}
+
+.navbar{
+    margin-bottom:20px;
+}
+
+.navbar a{
+    margin:0 0 0 25px;
+}
+
+.image-icon{
+    font-size: 70px;
+    margin:20px;
+}
+
+.image-icon:hover{
+    font-size: 100px;
+    transition: all .5s ease;
+}
