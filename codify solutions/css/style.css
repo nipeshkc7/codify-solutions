@@ -238,3 +238,12 @@ footer a:hover{
   letter-spacing: 2px;
 }
 
+.code-divider{
+  font-size:2.5em;
+  color:lightgrey;
+}
+
+.project-content{
+  letter-spacing: 1px;
+}
+
