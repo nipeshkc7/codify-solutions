@@ -219,7 +219,10 @@ footer a:hover{
 } 
 
 .card{
+  margin:10px;
   border-radius: 150px;
+  box-shadow: 0px 20px 40px  lightgrey;
+  border: 0px;
 }
 
 .card:hover{
